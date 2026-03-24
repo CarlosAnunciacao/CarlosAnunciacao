@@ -48,6 +48,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAnunciacao&theme=dracula&show_icons=true" />
 </a>
 
+### 🚀 Projetos de QA em Destaque
+
+* **[Automação E2E com Cypress](https://github.com/CarlosAnunciacao/Cypress)**: Um repositório focado na criação de testes de ponta a ponta (E2E) para aplicações web, explorando seletores robustos e asserções visuais.
+
 ## Minhas redes sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-anunciacao)
