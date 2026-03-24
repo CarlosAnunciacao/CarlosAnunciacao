@@ -2,11 +2,13 @@
 
 ### Sobre mim
 
-- 🤔 Firmando uma base sólida em java com foco no back-end.
-- 🎓 Estudando engenharia de software na UCSAL.
-- 💼 A procura de uma oportunidade no mundo da tecnológia.
-- 🌱 Aprendendo mais sobre Java, com foco em Spring Boot, microsserviços, APIs REST, e ferramentas como Docker e Git
-- ❤️ Uma curiosidade? Sou apaixonado por tecnologia e automobilismo.
+🚀 Estudante de Engenharia de Software na UCSAL com foco em Garantia de Qualidade (QA).
+
+🧪 Desenvolvendo automação de testes utilizando Java com Selenium, RestAssured e JUnit.
+
+🧐 Conhecimento sólido em metodologias de teste (Manuais, Integrados, E2E) e ciclo de vida de bugs.
+
+🛠️ Familiaridade com ferramentas de CI/CD e práticas de Clean Code aplicadas ao código de teste.
 
 ## Minhas Skills
 
@@ -18,6 +20,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium&logoColor=43B02A)
+![RestAssured](https://img.shields.io/badge/-RestAssured-333333?style=flat&logo=java&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5&logoColor=25A162)
+![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber&logoColor=23D96C)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
 
 
 **DevOps**
@@ -31,6 +38,9 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger&logoColor=85EA2D)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 
 <br/>
 
